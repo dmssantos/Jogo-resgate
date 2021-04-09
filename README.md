@@ -5,7 +5,6 @@
 <kbd>HTML</kbd>  
 <kbd>CSS</kbd>  
 <kbd>JavaScript</kbd>  
-<kbd></kbd>
 
 &nbsp;
 
