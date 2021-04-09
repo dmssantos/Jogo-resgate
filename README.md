@@ -1,4 +1,12 @@
-# Jogo-resgate
-jogo de helicoptero
+# :video_game: Jogo-resgate
 
-https://dmssantos.github.io/Jogo-resgate/
+:point_right: jogo de helicoptero
+
+<kbd>HTML</kbd>  
+<kbd>CSS</kbd>  
+<kbd>JavaScript</kbd>  
+<kbd></kbd>
+
+&nbsp;
+
+:link: https://dmssantos.github.io/Jogo-resgate/
